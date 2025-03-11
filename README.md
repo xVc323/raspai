@@ -28,7 +28,7 @@ We've combined the main voice assistant and passive listener into a single integ
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/raspai.git
+   git clone https://github.com/xvc323/raspai.git
    cd raspai
    ```
 
