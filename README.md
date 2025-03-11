@@ -4,10 +4,6 @@
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi-red.svg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raspberrypi/documentation/master/usage/gpio/images/raspberry-pi.png" width="150" alt="Raspberry Pi Logo">
-</p>
-
 A powerful voice assistant powered by Google's Gemini AI, designed to run on a Raspberry Pi.
 
 ## ✨ Latest Update: Integrated Voice Assistant
@@ -23,7 +19,7 @@ We've combined the main voice assistant and passive listener into a single integ
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Raspberry Pi 3B or better
+- Raspberry Pi 3B or better (only the 3B version has been tested)
 - USB microphone
 - Speaker (via 3.5mm jack or HDMI)
 - Google Gemini API key ([get one here](https://aistudio.google.com/app/apikey))
