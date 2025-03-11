@@ -1,0 +1,7 @@
+google-generativeai>=0.3.0
+pyaudio>=0.2.11
+pyttsx3>=2.90
+SpeechRecognition>=3.8.1
+python-dotenv>=0.19.0
+RPi.GPIO>=0.7.0
+numpy>=1.19.5 
